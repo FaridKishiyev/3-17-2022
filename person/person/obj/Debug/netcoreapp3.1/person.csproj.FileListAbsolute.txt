@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\person\person\obj\Debug\netcoreapp3.1\person.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\person\person\obj\Debug\netcoreapp3.1\person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\person\person\obj\Debug\netcoreapp3.1\person.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\person\person\obj\Debug\netcoreapp3.1\person.AssemblyInfo.cs
+C:\Users\acer\Desktop\person\person\obj\Debug\netcoreapp3.1\person.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\person\person\bin\Debug\netcoreapp3.1\person.exe
+C:\Users\acer\Desktop\person\person\bin\Debug\netcoreapp3.1\person.deps.json
+C:\Users\acer\Desktop\person\person\bin\Debug\netcoreapp3.1\person.runtimeconfig.json
+C:\Users\acer\Desktop\person\person\bin\Debug\netcoreapp3.1\person.runtimeconfig.dev.json
+C:\Users\acer\Desktop\person\person\bin\Debug\netcoreapp3.1\person.dll
+C:\Users\acer\Desktop\person\person\bin\Debug\netcoreapp3.1\person.pdb
+C:\Users\acer\Desktop\person\person\obj\Debug\netcoreapp3.1\person.dll
+C:\Users\acer\Desktop\person\person\obj\Debug\netcoreapp3.1\person.pdb
+C:\Users\acer\Desktop\person\person\obj\Debug\netcoreapp3.1\person.genruntimeconfig.cache
